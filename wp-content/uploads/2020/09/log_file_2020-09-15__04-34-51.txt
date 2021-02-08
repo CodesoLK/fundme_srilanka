@@ -1,0 +1,35 @@
+
+---Downloaded files---
+The import files for: funlin were successfully downloaded!
+Initial max execution time = 360
+Files info:
+Site URL = https://fundme.codeso.lk
+Data file = /home/fundme/public_html/wp-content/themes/funlin-progression//inc/demo/content.xml
+Widget file = /home/fundme/public_html/wp-content/themes/funlin-progression//inc/demo/widgets.wie
+Customizer file = /home/fundme/public_html/wp-content/themes/funlin-progression//inc/demo/theme_options.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
